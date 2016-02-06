@@ -1,0 +1,3 @@
+include runner README
+recursive-include Server/*
+recursive-include Client/*
