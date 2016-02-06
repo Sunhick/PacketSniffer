@@ -11,7 +11,8 @@ __version__ = "0.0.0"
 __email__ = "sunhick@gmail.com"
 
 
-from distutils.core import setup
+# from distutils.core import setup
+from setuptools import setup
 
 #This is a list of files to install, and where
 #(relative to the 'root' dir, where setup.py is)
@@ -23,6 +24,7 @@ setup(name = "PacketSniffer",
     description = "Packet sniffer tool",
     author = "sunil",
     author_email = "sunhick@gmail.com",
+    install_requires=['pypcap>=1.1.4'],
     url = "whatever",
     #Name the folder where your packages live:
     #(If you have other packages (dirs) or modules (py files) then
@@ -39,5 +41,7 @@ setup(name = "PacketSniffer",
     long_description = """Packet Sniffer""" 
     #
     #This next part it for the Cheese Shop, look a little down the page.
-    #classifiers = []     
+    #classifiers = []
+
+    # install_requires = ['pypcap>=1.1.4']
 )
