@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<XMI verified="false" xmi.version="1.2" timestamp="2016-02-16T23:51:44" xmlns:UML="http://schema.omg.org/spec/UML/1.3">
+<XMI verified="false" xmi.version="1.2" timestamp="2016-02-16T23:54:35" xmlns:UML="http://schema.omg.org/spec/UML/1.3">
  <XMI.header>
   <XMI.documentation>
    <XMI.exporter>umbrello uml modeller http://umbrello.kde.org</XMI.exporter>
@@ -96,13 +96,13 @@
          <statewidget linecolor="none" usesdiagramfillcolor="0" linewidth="0" textcolor="#000000" usesdiagramusefillcolor="0" x="-1157.758620689655" showstereotype="1" y="-539.6551724137934" font="Sans Serif,9,-1,0,50,0,0,0,0,0" localid="0tqhIVyHINWR" statename="capture" statetype="1" width="72.62068965517233" isinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="XV8un55hodmj" documentation="" height="40.79310344827582">
           <Activities/>
          </statewidget>
-         <statewidget linecolor="none" usesdiagramfillcolor="0" linewidth="0" textcolor="#000000" usesdiagramusefillcolor="0" x="-1595.689655172414" showstereotype="1" y="-539.6551724137931" font="Sans Serif,9,-1,0,50,0,0,0,0,0" localid="hnUUNCJX9myV" statename="idle" statetype="1" width="48.86206896551721" isinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="5vJYmHlCF1LN" documentation="" height="27">
+         <statewidget linecolor="none" usesdiagramfillcolor="0" linewidth="0" textcolor="#000000" usesdiagramusefillcolor="0" x="-1595.689655172414" showstereotype="1" y="-539.6551724137931" font="Sans Serif,9,-1,0,50,0,0,0,0,0" localid="hnUUNCJX9myV" statename="idle" statetype="1" width="54.89655172413791" isinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="5vJYmHlCF1LN" documentation="" height="31.31034482758616">
           <Activities/>
          </statewidget>
          <statewidget linecolor="none" usesdiagramfillcolor="0" linewidth="0" textcolor="#000000" usesdiagramusefillcolor="0" x="-931.8965517241379" showstereotype="1" y="-518.1034482758621" font="Sans Serif,9,-1,0,50,0,0,0,0,0" localid="yxel7tIbuzFv" statename="State" statetype="2" width="17.29927007299284" isinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="3HkAcLmFWWyp" documentation="" height="17.29927007299284">
           <Activities/>
          </statewidget>
-         <boxwidget width="564.655172413793" showstereotype="1" x="-1606.034482758621" usesdiagramusefillcolor="0" y="-594.8275862068965" usesdiagramfillcolor="0" isinstance="0" localid="AJfxW1TmqJYu" fillcolor="#ffff00" height="162.7586206896552" linecolor="#000000" xmi.id="QzpLjPVwYq5P" textcolor="#000000" usefillcolor="1" linewidth="0" font="Sans Serif,9,-1,0,50,0,0,0,0,0"/>
+         <boxwidget width="564.655172413793" showstereotype="1" x="-1610.344827586207" usesdiagramusefillcolor="0" y="-591.3793103448276" usesdiagramfillcolor="0" isinstance="0" localid="AJfxW1TmqJYu" fillcolor="#ffff00" height="162.7586206896552" linecolor="#000000" xmi.id="QzpLjPVwYq5P" textcolor="#000000" usefillcolor="1" linewidth="0" font="Sans Serif,9,-1,0,50,0,0,0,0,0"/>
         </widgets>
         <messages/>
         <associations>
@@ -111,14 +111,15 @@
            <startpoint startx="-1570.897959183673" starty="-633.9655172413793"/>
            <endpoint endx="-1570.897959183673" endy="-539.6551724137931"/>
           </linepath>
-          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" textcolor="none" usesdiagramusefillcolor="1" x="-1569.827586206897" showstereotype="1" y="-624.1379310344829" text="Open Application" font="Sans Serif,9,-1,0,50,0,0,0,0,0" localid="r6R5BS09NetV" pretext="" role="703" width="111" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="XB4S9JNCa5LC" height="18"/>
          </assocwidget>
          <assocwidget roleBdoc="" linecolor="#ff0000" indexa="1" usesdiagramfillcolor="0" widgetbid="wia5xNcoWzEE" indexb="1" linewidth="0" seqnum="" textcolor="#000000" usesdiagramusefillcolor="0" totalcounta="2" totalcountb="2" roleAdoc="" widgetaid="5vJYmHlCF1LN" font="Sans Serif,9,-1,0,50,0,0,0,0,0" visibilityA="0" visibilityB="0" usefillcolor="1" fillcolor="#ffff00" changeabilityA="900" changeabilityB="900" documentation="" type="514">
-          <linepath layout="Polyline">
-           <startpoint startx="-1546.827586206897" starty="-525"/>
-           <endpoint endx="-1393.965517241379" endy="-525"/>
+          <linepath layout="Spline">
+           <startpoint startx="-1540.793103448276" starty="-539.6551724137931"/>
+           <endpoint endx="-1393.965517241379" endy="-539.655172413793"/>
+           <point x="-1502.586206896552" y="-576.7241379310345"/>
+           <point x="-1436.206896551724" y="-576.7241379310345"/>
           </linepath>
-          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" textcolor="none" usesdiagramusefillcolor="1" x="-1526.431034482759" showstereotype="1" y="-547.4137931034483" text="Start monitoring" font="Sans Serif,9,-1,0,50,0,0,0,0,0" localid="O5QvaOkRU9Wd" pretext="" role="703" width="107" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="cWnzAeUgnY8w" height="18"/>
+          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" textcolor="none" usesdiagramusefillcolor="1" x="-1522.120689655172" showstereotype="1" y="-587.9310344827587" text="Start monitoring" font="Sans Serif,9,-1,0,50,0,0,0,0,0" localid="O5QvaOkRU9Wd" pretext="" role="703" width="107" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="cWnzAeUgnY8w" height="18"/>
          </assocwidget>
          <assocwidget roleBdoc="" linecolor="#ff0000" indexa="1" usesdiagramfillcolor="0" widgetbid="XV8un55hodmj" indexb="1" linewidth="0" seqnum="" textcolor="#000000" usesdiagramusefillcolor="0" totalcounta="2" totalcountb="2" roleAdoc="" widgetaid="wia5xNcoWzEE" font="Sans Serif,9,-1,0,50,0,0,0,0,0" visibilityA="0" visibilityB="0" usefillcolor="1" fillcolor="#ffff00" changeabilityA="900" changeabilityB="900" documentation="" type="514">
           <linepath layout="Spline">
@@ -144,7 +145,15 @@
            <endpoint endx="-931.8965517241379" endy="-509.4827586206897"/>
            <point x="-1006.034482758621" y="-509.4827586206897"/>
           </linepath>
-          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" textcolor="none" usesdiagramusefillcolor="1" x="-1012.068965517241" showstereotype="1" y="-506.0344827586208" text="App exit" font="Sans Serif,9,-1,0,50,0,0,0,0,0" localid="hcLfZuohDTei" pretext="" role="703" width="58" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="U6UJN2Bo007j" height="18"/>
+         </assocwidget>
+         <assocwidget roleBdoc="" linecolor="#ff0000" indexa="1" usesdiagramfillcolor="0" widgetbid="5vJYmHlCF1LN" indexb="1" linewidth="0" seqnum="" textcolor="#000000" usesdiagramusefillcolor="0" totalcounta="2" totalcountb="2" roleAdoc="" widgetaid="wia5xNcoWzEE" font="Sans Serif,9,-1,0,50,0,0,0,0,0" visibilityA="0" visibilityB="0" usefillcolor="1" fillcolor="#ffff00" changeabilityA="900" changeabilityB="900" documentation="" type="514">
+          <linepath layout="Spline">
+           <startpoint startx="-1396.551724137931" starty="-502.5862068965517"/>
+           <endpoint endx="-1540.793103448276" endy="-508.344827586207"/>
+           <point x="-1450" y="-474.1379310344828"/>
+           <point x="-1498.275862068966" y="-473.2758620689655"/>
+          </linepath>
+          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" textcolor="none" usesdiagramusefillcolor="1" x="-1523.275862068966" showstereotype="1" y="-478.8793103448276" text="stop monitoring" font="Sans Serif,9,-1,0,50,0,0,0,0,0" localid="OcduQgH5Jclq" pretext="" role="703" width="103" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="UZYg1AOTEsmc" height="18"/>
          </assocwidget>
         </associations>
        </diagram>
@@ -409,7 +418,7 @@
   </UML:Model>
  </XMI.content>
  <XMI.extensions xmi.extender="umbrello">
-  <docsettings viewid="rgk5cbA8IKnk" uniqueid="U6UJN2Bo007j" documentation=""/>
+  <docsettings viewid="rgk5cbA8IKnk" uniqueid="UZYg1AOTEsmc" documentation=""/>
   <listview>
    <listitem open="1" type="800" id="Views">
     <listitem open="0" type="821" id="Component View">
