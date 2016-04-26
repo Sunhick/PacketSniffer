@@ -1,9 +1,17 @@
-# CSCI5448 Spring 2016 Project - Packet Sniffer
+# CSCI 5448 Spring 2016 Project - Packet Sniffer
 
 A packet sniffer application using Java and having a GUI that can capture and 
 analyze packets being transmitted and received over a network. The captured packets can be 
 used to gain information about the type and content of messages being transmitted over the 
 network.
+
+## How to download / clone the repository?
+
+## Installing prerequisites? 
+
+## Compiling the code and running? 
+
+## 
 
 ## Authors
 
