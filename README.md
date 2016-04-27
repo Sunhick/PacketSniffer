@@ -69,7 +69,7 @@ Open the code in your favourite IDE like eclipse etc. which has java environment
 <a name = "resources"/>
 ## Resources:
 - **Homepage:** <http://github.com/Sunhick/PacketSniffer>
-- **Git clone URL:** <git@github.com/Sunhick/PacketSniffer.git>
+- **Git clone URL:** <git://github.com/Sunhick/PacketSniffer.git>
 - **Source code:** <https://github.com/Sunhick/PacketSniffer>
 - **JAVA SDK:** <http://www.oracle.com/technetwork/java/javase/downloads/index.html>
 - **JRE:** <http://www.oracle.com/technetwork/java/javase/downloads/index.html>
