@@ -37,7 +37,7 @@ Be sure to also configure your system to use the appropriate proxy settings, e.g
 
 
 <a name = "prerequisites"/>
-## Installing prerequisites? 
+## Installing prerequisites
 
 1.	To compile the above code you must have Java SDK 7.0 and JRE installed. Java SDK and JRE can be installed from http://www.oracle.com/technetwork/java/javase/downloads/index.html.
 
@@ -52,7 +52,7 @@ Be sure to also configure your system to use the appropriate proxy settings, e.g
 4.	Along with the jar file you must also copy jpcap.dll in windows / libjpcap.jnilib in Mac into the same location(where jar was copied)
 
 <a name = "compiling"/>
-## Compiling the code and running? 
+## Compiling the code and running
 
 Open the code in your favourite IDE like eclipse etc. which has java environment setup for compiling, debugging and running the code. Select the PacketSniffer server and click the "Run as Java Application" button.  If prequisites are setup properly the application will launch. 
 
@@ -69,7 +69,7 @@ Open the code in your favourite IDE like eclipse etc. which has java environment
 <a name = "resources"/>
 ## Resources:
 - **Homepage:** <http://github.com/Sunhick/PacketSniffer>
-- **Git clone URL:** <git@github.com:Sunhick/PacketSniffer.git>
+- **Git clone URL:** <git@github.com/Sunhick/PacketSniffer.git>
 - **Source code:** <https://github.com/Sunhick/PacketSniffer>
 - **JAVA SDK:** <http://www.oracle.com/technetwork/java/javase/downloads/index.html>
 - **JRE:** <http://www.oracle.com/technetwork/java/javase/downloads/index.html>
