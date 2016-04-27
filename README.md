@@ -81,7 +81,7 @@ Open the code in your favourite IDE like eclipse etc. which has java environment
 <a name = "Authors"/>
 ## Authors
 
-* **Sunil bn**
+* **Sunil Murthy**
 * **Nehal Kamat**
 * **Apoorva Bapat**
 
