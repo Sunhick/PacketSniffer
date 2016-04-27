@@ -17,6 +17,13 @@ analyze packets being transmitted and received over a network. The captured pack
 used to gain information about the type and content of messages being transmitted over the 
 network.
 
+<a name = "Authors"/>
+## Team Members
+
+* **Sunil Murthy**
+* **Nehal Kamat**
+* **Apoorva Bapat**
+
 <a name="Currently-Supported-Platforms"/>
 ## Currently Supported Platforms
 
@@ -79,13 +86,6 @@ Open the code in your favourite IDE like eclipse etc. which has java environment
 - **JPcap:** <http://jpcap.gitspot.com/download.html>
 
 ## 
-
-<a name = "Authors"/>
-## Authors
-
-* **Sunil Murthy**
-* **Nehal Kamat**
-* **Apoorva Bapat**
 
 <a name = "license"/>
 ## License
